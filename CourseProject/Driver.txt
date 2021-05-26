@@ -1,0 +1,9 @@
+
+Максим	Хогт	34	0	3	maxsimHogt	OCMUKO*QIV	0	8	20	 4	2010	0
+Андрей	Валенок	37	0	3	terra	V\JWY^ZNT	1	10	20	 2	2008	1
+Богдан	Афанасевич	41	0	3	angel288	VF_\X]JIH	2	15	29	 7	2003	1
+Дима	Матроскин	43	0	3	dimaMatroskin	OPDXEZ\FUC	3	14	11	 2	2005	1
+Миша	Водин	39	0	3	mishaVodin	SYGTV[WKQR	4	8	4	 4	2010	1
+Искандер	Цукалов	28	0	3	ickander	MSANPUQEKLkq_lnsocij	5	8	5	 12	2011	0
+Мухамед	Сулейманов	30	0	3	sylemanov	CI7DFKG;ABagUbdieY_`gm[hjok_ef	6	8	1	 1	2012	1
+Георг	Анищенко	33	0	3	wafilka	l]ejgehhan0-/	7	6	4	 12	2012	1
